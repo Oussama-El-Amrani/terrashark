@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "terrashark",
-      "source": ".",
+      "source": "./",
       "description": "Terraform/OpenTofu Guardrails",
       "version": "2.3.0"
     }
